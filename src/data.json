@@ -1,0 +1,73 @@
+{
+    "technologies": [
+      {
+        "name": "C#",
+        "questions": [
+          {
+            "question": "What is C#?",
+            "answer": "C# is a modern, object-oriented programming language developed by Microsoft."
+          },
+          {
+            "question": "What is a delegate in C#?",
+            "answer": "A delegate is a type that represents references to methods with a particular parameter list and return type."
+          }
+        ]
+      },
+      {
+        "name": "Angular",
+        "questions": [
+          {
+            "question": "What is Angular?",
+            "answer": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript."
+          },
+          {
+            "question": "What is a component in Angular?",
+            "answer": "A component is a building block of Angular applications, consisting of a TypeScript class, an HTML template, and CSS styles."
+          }
+        ]
+      },
+      {
+        "name": "React",
+        "questions": [
+          {
+            "question": "What is React?",
+            "answer": "React is a JavaScript library for building user interfaces, maintained by Facebook and a community of developers."
+          },
+          {
+            "question": "What is a hook in React?",
+            "answer": "Hooks are functions that let you use state and other React features in functional components."
+          },
+          {
+            "question": "What are the limitations of React?",
+            "answer": "React is not a full-blown framework as it is only a library."
+          },
+          {
+            "question": "What is useState() in React?",
+            "answer": "The useState() is a built-in React Hook that allows you for having state variables in functional components. It should be used when the DOM has something that is dynamically manipulating/controlling."
+          },
+          {
+            "question": " What are keys in React?",
+            "answer": "A key is a special string attribute that needs to be included when using lists of elements."
+          },
+          {
+            "question": "What is JSX?",
+            "answer": "JSX stands for JavaScript XML. It allows us to write HTML inside JavaScript and place them in the DOM without using functions like appendChild( ) or createElement( )."
+          }
+        ]
+      },
+      {
+        "name": "SQL Server",
+        "questions": [
+          {
+            "question": "What is SQL Server?",
+            "answer": "SQL Server is a relational database management system developed by Microsoft."
+          },
+          {
+            "question": "What is a stored procedure in SQL Server?",
+            "answer": "A stored procedure is a prepared SQL code that you can save and reuse."
+          }
+        ]
+      }
+    ]
+  }
+  
